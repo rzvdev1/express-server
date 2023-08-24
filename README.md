@@ -19,6 +19,6 @@ The following steps will get you started.
 6. Create eb environment
    `$eb create`
    ![here](./images/aws-cli.png)
-7. Deploy application
+7. Deploy application ![here](./images/aws-deploy.png)
 
 [MIT License](LICENSE) @ Julio Ramirez
