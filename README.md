@@ -10,14 +10,15 @@ The following steps will get you started.
 
 1. Clone express server repository ![here](./images/clone.png)
 2. Create an AWS account ![here](./images/aws.png)
-3. Elastic Beanstalk to deploy an application ![here]()
+3. Create Elastic Beanstalk application ![here](./images/env.png)
 4. Install AWS CLI
    `$brew install awscli`
    ![here](./images/cli.png)
-5. Configure AWS CLI
-6. Create a key pair
-7. Create a security group
-8. Create an instance
-9. Deploy application
+5. Configure AWS CLI ![here](./images/aws-config.png)
+
+6. Create eb environment
+   `$eb create`
+   ![here](./images/aws-cli.png)
+7. Deploy application
 
 [MIT License](LICENSE) @ Julio Ramirez
